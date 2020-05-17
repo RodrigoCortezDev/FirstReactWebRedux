@@ -4,7 +4,7 @@ function App() {
 	return (
 		<div className="App">
 			<header className="App-header">
-				<p>Olá Redux 2</p>
+				<p>Olá Redux 3</p>
 			</header>
 		</div>
 	);
