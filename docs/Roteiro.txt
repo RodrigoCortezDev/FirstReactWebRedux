@@ -1,0 +1,11 @@
+Instalando o manipulador de rotas
+    ->yarn add react-router-dom
+
+Instalando ferramenta de customização
+    -> yarn add styled-components
+
+Icones
+    -> yarn add react-icons
+
+Ferramenta para tratamento de cores
+    -> yarn add polished
